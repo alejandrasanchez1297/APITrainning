@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="APIWork.Feature.featureT" skipped="0" tests="1" time="126.49" timestamp="2018-08-17T12:40:13.041-05:00[America/Bogota]"><testcase classname="APIWork.Feature.featureT" name="Get intern from id"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+APIWork.Steps.stepFirst.insertToDataBase(stepFirst.java:28)&#13;
+APIWork.Feature.featureT.getInternFromId(featureT.java:19)&#13;
+</system-err></testcase></testsuite>
